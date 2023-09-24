@@ -1,0 +1,10 @@
+     Furniture     
+=====================
+Factory Railing: 1
+
+        Dyes        
+=====================
+
+Furniture (With Dye)
+=====================
+Factory Railing: 1
