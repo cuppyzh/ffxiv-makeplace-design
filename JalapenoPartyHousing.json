@@ -1,0 +1,1296 @@
+{
+  "playerTransform": {
+    "location": [ 0, 0, 0 ],
+    "rotation": [ 0, 0, 0, 1 ],
+    "scale": [ 1, 1, 1 ]
+  },
+  "houseSize": "Large",
+  "interiorScale": 1,
+  "interiorFixture": [
+    {
+      "level": "Ground Floor",
+      "type": "Wall",
+      "name": "Leveilleur Estate Interior Wall",
+      "itemId": 38674
+    },
+    {
+      "level": "Ground Floor",
+      "type": "Floor",
+      "name": "Tatami Flooring",
+      "itemId": 9768
+    },
+    {
+      "level": "Ground Floor",
+      "type": "Light",
+      "name": "Hingan Hanging Bonbori Lamp",
+      "itemId": 20720
+    },
+    {
+      "level": "Upper Floor",
+      "type": "Wall",
+      "name": "Oasis Interior Wall",
+      "itemId": 6457
+    },
+    {
+      "level": "Upper Floor",
+      "type": "Floor",
+      "name": "Oasis Flooring",
+      "itemId": 6460
+    },
+    {
+      "level": "Upper Floor",
+      "type": "Light",
+      "name": "Oasis Chandelier",
+      "itemId": 6469
+    },
+    {
+      "level": "Basement",
+      "type": "Wall",
+      "name": "Hingan Interior Wall",
+      "itemId": 20716
+    },
+    {
+      "level": "Basement",
+      "type": "Floor",
+      "name": "Glade Flooring",
+      "itemId": 6459
+    },
+    {
+      "level": "Basement",
+      "type": "Light",
+      "name": "Hingan Hanging Toro Lamp",
+      "itemId": 20722
+    },
+    {
+      "level": "Main",
+      "type": "Window",
+      "name": "Sukiya-zukuri Mansion Walls",
+      "itemId": 38955
+    },
+    {
+      "level": "Main",
+      "type": "Door",
+      "name": "Sukiya-zukuri Mansion Walls",
+      "itemId": 38955
+    },
+    {
+      "level": "Main",
+      "type": "Light",
+      "name": "Oasis Chandelier",
+      "itemId": 6469
+    },
+    {
+      "level": "",
+      "type": "District",
+      "name": "Goblet",
+      "itemId": 0
+    }
+  ],
+  "interiorFurniture": [
+    {
+      "transform": {
+        "location": [ 1.2, -14.8, 5.525586 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Bamboo Planter",
+      "itemId": 20740
+    },
+    {
+      "transform": {
+        "location": [ 7.992, -10.299999, 0.025587559 ],
+        "rotation": [ 0, 0, -0.7071067, 0.7071068 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Blank Hingan Partition",
+      "itemId": 21109
+    },
+    {
+      "transform": {
+        "location": [ 7.9920187, -6.3000007, 0.0255875 ],
+        "rotation": [ 0, 0, -0.70710677, 0.7071068 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Blank Hingan Partition",
+      "itemId": 21109
+    },
+    {
+      "transform": {
+        "location": [ 5.8, 5.1000013, -1.1744125 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Doman Dogwood",
+      "itemId": 23864
+    },
+    {
+      "transform": {
+        "location": [ 4.6000004, 9.599999, -2.5744126 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Doman Dogwood",
+      "itemId": 23864
+    },
+    {
+      "transform": {
+        "location": [ 2.0930116, 8.599999, 0.025587559 ],
+        "rotation": [ 0, 0, 0.7071067, 0.7071068 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Eastern Indoor Pond",
+      "itemId": 33258
+    },
+    {
+      "transform": {
+        "location": [ 2, 1.3000004, 0.025587559 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Eastern Indoor Pond",
+      "itemId": 33258
+    },
+    {
+      "transform": {
+        "location": [ 6.1, 8.199999, 0.025587559 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Eastern Indoor Pond",
+      "itemId": 33258
+    },
+    {
+      "transform": {
+        "location": [ -2.1000001, 8.4784975, 0.025587559 ],
+        "rotation": [ 0, 0, -0.7053368, 0.7088723 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Eastern Indoor Pond",
+      "itemId": 33258
+    },
+    {
+      "transform": {
+        "location": [ -2.0999997, 1.3, 0.025587559 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Eastern Indoor Pond",
+      "itemId": 33258
+    },
+    {
+      "transform": {
+        "location": [ 13.800049, -12, 2.4000185 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Enclave Map",
+      "itemId": 23865
+    },
+    {
+      "transform": {
+        "location": [ 4.948514, 11.117053, 0.025587559 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Far Eastern Indoor Bamboo Fountain",
+      "itemId": 40649
+    },
+    {
+      "transform": {
+        "location": [ -0.4, -15.2, 5.525586 ],
+        "rotation": [ 0, 0, 0.0262681, 0.99965495 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Glade Floor Lamp",
+      "itemId": 6584
+    },
+    {
+      "transform": {
+        "location": [ 5.8, 3.8000002, 0.025587559 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Grocery Counter Cart",
+      "itemId": 33259
+    },
+    {
+      "transform": {
+        "location": [ 14, 5.8, 0.025587559 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": [],
+      "name": "Hingan Fire Pit",
+      "itemId": 20738
+    },
+    {
+      "transform": {
+        "location": [ 4.2, -1.5999999, 0.025587559 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Hingan Pillar",
+      "itemId": 21845
+    },
+    {
+      "transform": {
+        "location": [ 4.4000006, 1.4, 0.025587559 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Hingan Pillar",
+      "itemId": 21845
+    },
+    {
+      "transform": {
+        "location": [ 4.78799, 7.727913, 0.025587559 ],
+        "rotation": [ 0, 0, -0.7933533, 0.6087614 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Indoor Oriental Waterfall",
+      "itemId": 35561
+    },
+    {
+      "transform": {
+        "location": [ 5.399999, 6.5999994, -1.0744125 ],
+        "rotation": [ 0, 0, -0.5, 0.8660254 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Indoor Oriental Waterfall",
+      "itemId": 35561
+    },
+    {
+      "transform": {
+        "location": [ 10, 11.8, 0.2 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Luminous Wooden Loft",
+      "itemId": 37360
+    },
+    {
+      "transform": {
+        "location": [ 14, 11.8, 0.2 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Luminous Wooden Loft",
+      "itemId": 37360
+    },
+    {
+      "transform": {
+        "location": [ 10, 7.8, 0.2 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Luminous Wooden Loft",
+      "itemId": 37360
+    },
+    {
+      "transform": {
+        "location": [ -14.2, -10.799999, -7.0036116 ],
+        "rotation": [ 0, 0, -0.1941006, 0.98098165 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Mannequin",
+      "itemId": 23846
+    },
+    {
+      "transform": {
+        "location": [ -15.8, -9.2, -7.0036116 ],
+        "rotation": [ 0, 0, -0.1941006, 0.98098165 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Mender Permit A-3",
+      "itemId": 21201
+    },
+    {
+      "transform": {
+        "location": [ -5.8275127, -5.2042937, 0.025587559 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Orchestrion",
+      "itemId": 14045
+    },
+    {
+      "transform": {
+        "location": [ 0, 10.099999, -0.57441247 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Riviera Half Partition",
+      "itemId": 7973
+    },
+    {
+      "transform": {
+        "location": [ 0, 3.8000002, -0.574 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Riviera Half Partition",
+      "itemId": 7973
+    },
+    {
+      "transform": {
+        "location": [ 0, 4.7000003, -0.574 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Riviera Half Partition",
+      "itemId": 7973
+    },
+    {
+      "transform": {
+        "location": [ 0, 2.8999999, -0.574 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Riviera Half Partition",
+      "itemId": 7973
+    },
+    {
+      "transform": {
+        "location": [ 0, 5.5999994, -0.574 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Riviera Half Partition",
+      "itemId": 7973
+    },
+    {
+      "transform": {
+        "location": [ 0, 7.4000006, -0.574 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Riviera Half Partition",
+      "itemId": 7973
+    },
+    {
+      "transform": {
+        "location": [ 0, 6.4999995, -0.574 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Riviera Half Partition",
+      "itemId": 7973
+    },
+    {
+      "transform": {
+        "location": [ 0, 9.2, -0.574 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Riviera Half Partition",
+      "itemId": 7973
+    },
+    {
+      "transform": {
+        "location": [ 0, 1.9999993, -0.574 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Riviera Half Partition",
+      "itemId": 7973
+    },
+    {
+      "transform": {
+        "location": [ 0, 11, -0.574 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Riviera Half Partition",
+      "itemId": 7973
+    },
+    {
+      "transform": {
+        "location": [ 0, 8.3, -0.57441247 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Riviera Half Partition",
+      "itemId": 7973
+    },
+    {
+      "transform": {
+        "location": [ 16.799726, 9.598696, 0.025587559 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Sake Set",
+      "itemId": 21838
+    },
+    {
+      "transform": {
+        "location": [ -1.8069918, -15.109708, 5.525586 ],
+        "rotation": [ 0, 0, 0.096907794, 0.9952934 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Stack of Tomes",
+      "itemId": 13073
+    },
+    {
+      "transform": {
+        "location": [ -15.367975, -10.328616, -7.0036116 ],
+        "rotation": [ 0, 0, -0.47257602, 0.8812899 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Summoning Bell",
+      "itemId": 7064
+    },
+    {
+      "transform": {
+        "location": [ -0.1960702, 0.040231295, 0.025587559 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Troupe Stage",
+      "itemId": 16781
+    },
+    {
+      "transform": {
+        "location": [ 0, -5.9000006, 0.025587559 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Troupe Stage",
+      "itemId": 16781
+    },
+    {
+      "transform": {
+        "location": [ 16.1, -1.8000003, -0.77441245 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "White Half Partition",
+      "itemId": 17974
+    },
+    {
+      "transform": {
+        "location": [ 16.099998, 1.5999999, -0.77441245 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "White Half Partition",
+      "itemId": 17974
+    },
+    {
+      "transform": {
+        "location": [ -18.061956, -3.568, 0.025587559 ],
+        "rotation": [ 0, 0, -1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "30211B00"
+      },
+      "attachments": [],
+      "name": "White Partition",
+      "itemId": 17028
+    },
+    {
+      "transform": {
+        "location": [ -6.9504676, 5.4722004, 0.025587559 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "30211B00"
+      },
+      "attachments": [],
+      "name": "White Partition",
+      "itemId": 17028
+    },
+    {
+      "transform": {
+        "location": [ -7.982, -5.5999994, 0.025587559 ],
+        "rotation": [ 0, 0, 0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "30211B00"
+      },
+      "attachments": [],
+      "name": "White Partition",
+      "itemId": 17028
+    },
+    {
+      "transform": {
+        "location": [ -7.982, -1.6199863, 0.025587559 ],
+        "rotation": [ 0, 0, -0.70710677, 0.70710677 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "30211B00"
+      },
+      "attachments": [],
+      "name": "White Partition",
+      "itemId": 17028
+    },
+    {
+      "transform": {
+        "location": [ -10.175644, -3.568028, 0.025587559 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "30211B00"
+      },
+      "attachments": [],
+      "name": "White Partition",
+      "itemId": 17028
+    },
+    {
+      "transform": {
+        "location": [ -14.098125, -3.568, 0.025587559 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "30211B00"
+      },
+      "attachments": [],
+      "name": "White Partition",
+      "itemId": 17028
+    },
+    {
+      "transform": {
+        "location": [ 1.895, 5.011742, 0.91956556 ],
+        "rotation": [ 0, 0, 0.70710665, 0.7071069 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "3D290D00"
+      },
+      "attachments": [],
+      "name": "Wooden Handrail",
+      "itemId": 27296
+    },
+    {
+      "transform": {
+        "location": [ 1.8950909, 3.209538, 0.91956556 ],
+        "rotation": [ 0, 0, 0.70710665, 0.7071069 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "3D290D00"
+      },
+      "attachments": [],
+      "name": "Wooden Handrail",
+      "itemId": 27296
+    },
+    {
+      "transform": {
+        "location": [ -1.904, 10.401184, 0.9191531 ],
+        "rotation": [ 0, 0, -0.70710665, 0.7071069 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Wooden Handrail",
+      "itemId": 27296
+    },
+    {
+      "transform": {
+        "location": [ -1.904, 6.7994986, 0.91956556 ],
+        "rotation": [ 0, 0, -0.7071067, 0.7071068 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Wooden Handrail",
+      "itemId": 27296
+    },
+    {
+      "transform": {
+        "location": [ -1.904, 5.0000696, 0.91956556 ],
+        "rotation": [ 0, 0, -0.70710665, 0.7071069 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Wooden Handrail",
+      "itemId": 27296
+    },
+    {
+      "transform": {
+        "location": [ -1.9036932, 3.19937, 0.91956556 ],
+        "rotation": [ 0, 0, -0.70710665, 0.7071069 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Wooden Handrail",
+      "itemId": 27296
+    },
+    {
+      "transform": {
+        "location": [ 1.8949996, 10.410517, 0.9191531 ],
+        "rotation": [ 0, 0, -0.70710665, 0.7071069 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Wooden Handrail",
+      "itemId": 27296
+    },
+    {
+      "transform": {
+        "location": [ 1.8949997, 8.609087, 0.9191531 ],
+        "rotation": [ 0, 0, -0.70710665, 0.7071069 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "3D290D00"
+      },
+      "attachments": [],
+      "name": "Wooden Handrail",
+      "itemId": 27296
+    },
+    {
+      "transform": {
+        "location": [ 1.8950005, 6.812324, 0.91956556 ],
+        "rotation": [ 0, 0, -0.70710665, 0.7071069 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "3D290D00"
+      },
+      "attachments": [],
+      "name": "Wooden Handrail",
+      "itemId": 27296
+    },
+    {
+      "transform": {
+        "location": [ -1.904, 8.601719, 0.9191531 ],
+        "rotation": [ 0, 0, -0.7071067, 0.7071068 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Wooden Handrail",
+      "itemId": 27296
+    },
+    {
+      "transform": {
+        "location": [ 14, 7.8, 0.2 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": [],
+      "name": "Wooden Loft",
+      "itemId": 24511
+    },
+    {
+      "transform": {
+        "location": [ -1.8, -4.9, 7.9 ],
+        "rotation": [ 0, 0, -0.70698464, 0.7072289 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": [],
+      "name": "Wooden Loft",
+      "itemId": 24511
+    },
+    {
+      "transform": {
+        "location": [ -9.800003, -4.9, 7.9 ],
+        "rotation": [ 0, 0, -0.70710987, 0.70710367 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": [],
+      "name": "Wooden Loft",
+      "itemId": 24511
+    },
+    {
+      "transform": {
+        "location": [ -5.8, -4.9, 7.9 ],
+        "rotation": [ 0, 0, -0.70698464, 0.7072289 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": [],
+      "name": "Wooden Loft",
+      "itemId": 24511
+    },
+    {
+      "transform": {
+        "location": [ 4.8, -1.067181, 0.6 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": [],
+      "name": "Wooden Steps",
+      "itemId": 24512
+    },
+    {
+      "transform": {
+        "location": [ 5, 1.7, 0.6 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": [],
+      "name": "Wooden Steps",
+      "itemId": 24512
+    },
+    {
+      "transform": {
+        "location": [ 11.600516, 9.998219, 0.45 ],
+        "rotation": [ 0, 0, -1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Zabuton Cushion",
+      "itemId": 17973
+    }
+  ],
+  "exteriorScale": 1,
+  "exteriorFixture": [
+    {
+      "level": "",
+      "type": "Exterior Wall",
+      "name": "Sukiya-zukuri Mansion Walls",
+      "itemId": 38955
+    }
+  ],
+  "exteriorFurniture": [
+    {
+      "transform": {
+        "location": [ -17.704964, -9.632715, 1.1933804 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Miniature Aetheryte",
+      "itemId": 6600
+    },
+    {
+      "transform": {
+        "location": [ -0.005262375, 8.718888, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Railway Sleepers",
+      "itemId": 40674
+    },
+    {
+      "transform": {
+        "location": [ -15.200957, 21.22414, 0 ],
+        "rotation": [ 0, 0, -0.70722884, 0.7069847 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Chocobo Stable",
+      "itemId": 7989
+    },
+    {
+      "transform": {
+        "location": [ -5.2014856, 19.620693, 0 ],
+        "rotation": [ 0, 0, 0.7069847, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Eastern Wisteria",
+      "itemId": 33297
+    },
+    {
+      "transform": {
+        "location": [ -17.603567, 13.624976, 0 ],
+        "rotation": [ 0, 0, 0.49985042, 0.86611176 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Regal Letter Box",
+      "itemId": 7115
+    },
+    {
+      "transform": {
+        "location": [ 17.395033, 9.612892, 0 ],
+        "rotation": [ 0, 0, -0.16383512, 0.98648775 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Sunflower Plot",
+      "itemId": 12671
+    },
+    {
+      "transform": {
+        "location": [ 17.327248, 13.099733, 0 ],
+        "rotation": [ 0, 0, -0.33232862, 0.9431637 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Eastern Wisteria",
+      "itemId": 33297
+    },
+    {
+      "transform": {
+        "location": [ 10.99699, 15.215083, 0 ],
+        "rotation": [ 0, 0, -0.6960312, 0.7180115 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Authentic Eastern Cherry Petal Pile",
+      "itemId": 21873
+    },
+    {
+      "transform": {
+        "location": [ 3.9993925, 22.217506, 0 ],
+        "rotation": [ 0, 0, 0.70698476, 0.7072288 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Bamboo Fence",
+      "itemId": 38622
+    },
+    {
+      "transform": {
+        "location": [ -17.60772, 1.6249802, 0 ],
+        "rotation": [ 0, 0, -0.2589859, 0.9658811 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Eastern Wisteria",
+      "itemId": 33297
+    },
+    {
+      "transform": {
+        "location": [ -1.4483294, -21.47511, 0.18242168 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Deluxe Garden Patch",
+      "itemId": 7130
+    },
+    {
+      "transform": {
+        "location": [ -17.21544, -20.775158, 0 ],
+        "rotation": [ 0, 0, -0.8487751, 0.52875406 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Eastern Pine",
+      "itemId": 17982
+    },
+    {
+      "transform": {
+        "location": [ 3.9982781, 19.017513, 0 ],
+        "rotation": [ 0, 0, 0.70698476, 0.7072288 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Bamboo Fence",
+      "itemId": 38622
+    },
+    {
+      "transform": {
+        "location": [ 16.998499, 19.613022, 0 ],
+        "rotation": [ 0, 0, 0.70698476, 0.7072288 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Plot of Hydrangeas",
+      "itemId": 33294
+    },
+    {
+      "transform": {
+        "location": [ -1.6710087, 7.209972, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Expansion of Duties Permit",
+      "itemId": 8837
+    },
+    {
+      "transform": {
+        "location": [ 5.197677, 17.217096, 0 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Wooden Footbridge",
+      "itemId": 30408
+    },
+    {
+      "transform": {
+        "location": [ -18.202045, 18.025183, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Bamboo Fence",
+      "itemId": 38622
+    },
+    {
+      "transform": {
+        "location": [ -17.192474, 19.134338, 0 ],
+        "rotation": [ 0, 0, -0.70722884, 0.7069847 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Odder Otter Andon Lamp",
+      "itemId": 22582
+    },
+    {
+      "transform": {
+        "location": [ -15.102058, 18.024113, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Bamboo Fence",
+      "itemId": 38622
+    },
+    {
+      "transform": {
+        "location": [ -16.203634, 13.4244995, 0 ],
+        "rotation": [ 0, 0, -0.86611176, 0.49985036 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Garden Creek",
+      "itemId": 40675
+    },
+    {
+      "transform": {
+        "location": [ -17.60654, 5.024981, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Bamboo Fence",
+      "itemId": 38622
+    },
+    {
+      "transform": {
+        "location": [ -14.937195, 15.125723, 0 ],
+        "rotation": [ 0, 0, 0.60862446, 0.7934584 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Oriental Wood Bridge",
+      "itemId": 15160
+    },
+    {
+      "transform": {
+        "location": [ -13.003855, 12.823386, 0 ],
+        "rotation": [ 0, 0, 0.60862446, 0.7934584 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Toro Lantern",
+      "itemId": 20773
+    },
+    {
+      "transform": {
+        "location": [ 5.199127, 21.417095, 0 ],
+        "rotation": [ 0, 0, 0.70698476, 0.7072288 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Plot of Hydrangeas",
+      "itemId": 33294
+    },
+    {
+      "transform": {
+        "location": [ -10.20578, 7.2224207, 0 ],
+        "rotation": [ 0, 0, 0.70698476, 0.7072288 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Weaponsmith's Stall",
+      "itemId": 28163
+    },
+    {
+      "transform": {
+        "location": [ 3.747933, 8.737677, 0 ],
+        "rotation": [ 0, 0, 0.70698476, 0.7072288 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Authentic Eastern Cherry Tree",
+      "itemId": 17044
+    },
+    {
+      "transform": {
+        "location": [ 17.117437, 16.635735, 0 ],
+        "rotation": [ 0, 0, 0.015225008, 0.99988407 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Authentic Felt Mat",
+      "itemId": 17045
+    },
+    {
+      "transform": {
+        "location": [ 15.198354, 19.213638, 0 ],
+        "rotation": [ 0, 0, 0.70698476, 0.7072288 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Authentic Eastern Cherry Tree",
+      "itemId": 17044
+    },
+    {
+      "transform": {
+        "location": [ -7.6054463, 8.221523, 0 ],
+        "rotation": [ 0, 0, 0, 1 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Greengrocer's Stall",
+      "itemId": 28168
+    },
+    {
+      "transform": {
+        "location": [ 14.996151, 12.813715, 0 ],
+        "rotation": [ 0, 0, 0.60862446, 0.7934584 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Ultimate Kettle Nexus",
+      "itemId": 13087
+    },
+    {
+      "transform": {
+        "location": [ 7.1959443, 12.216412, 0 ],
+        "rotation": [ 0, 0, 0.7069847, 0.70722884 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Railway Sleepers",
+      "itemId": 40674
+    },
+    {
+      "transform": {
+        "location": [ 2.1970599, 15.418142, 0 ],
+        "rotation": [ 0, 0, 0.70698476, 0.7072288 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Shishi-odoshi",
+      "itemId": 14065
+    },
+    {
+      "transform": {
+        "location": [ 10.198914, 20.815357, 0 ],
+        "rotation": [ 0, 0, -0.51278436, 0.85851747 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Explorer's Campfire",
+      "itemId": 12235
+    },
+    {
+      "transform": {
+        "location": [ -1.2008853, 21.419304, 0 ],
+        "rotation": [ 0, 0, 1, 0 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {
+        "color": "2B292300"
+      },
+      "attachments": [],
+      "name": "Eastern Teahouse Bench",
+      "itemId": 17983
+    },
+    {
+      "transform": {
+        "location": [ 4.9946265, 8.417168, 0 ],
+        "rotation": [ 0, 0, 0.70994645, 0.7042557 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Planter Set",
+      "itemId": 37402
+    },
+    {
+      "transform": {
+        "location": [ 3.7951005, 9.817588, 0 ],
+        "rotation": [ 0, 0, -0.70722884, 0.7069847 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Toro Lantern",
+      "itemId": 20773
+    },
+    {
+      "transform": {
+        "location": [ 13.79332, 4.6141353, 0 ],
+        "rotation": [ 0, 0, 0.70698476, 0.7072288 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Toro Lantern",
+      "itemId": 20773
+    },
+    {
+      "transform": {
+        "location": [ 2.7987037, 20.217924, 0 ],
+        "rotation": [ 0, 0, 0.49985045, 0.8661117 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Eastern Wisteria",
+      "itemId": 33297
+    },
+    {
+      "transform": {
+        "location": [ -3.2009406, 21.219994, 0 ],
+        "rotation": [ 0, 0, -0.9999355, 0.0113546355 ],
+        "scale": [ 1, 1, 1 ]
+      },
+      "properties": {},
+      "attachments": [],
+      "name": "Plot of Hydrangeas",
+      "itemId": 33294
+    }
+  ],
+  "properties": {
+    "entranceLayout": "Far Left Side"
+  }
+}
