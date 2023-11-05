@@ -1,0 +1,564 @@
+{
+	"lightLevel": 1,
+	"houseSize": "Small",
+	"interiorFixture": [
+		{
+			"level": "",
+			"type": "District",
+			"name": "Mist",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Basement",
+			"type": "Wall",
+			"name": "Storm Blue Interior Wall",
+			"itemId": 33248,
+			"color": ""
+		},
+		{
+			"level": "Basement",
+			"type": "Floor",
+			"name": "Glade Flooring",
+			"itemId": 6459,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Light",
+			"name": "Crystal Chandelier",
+			"itemId": 16013,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Floor",
+			"name": "Glade Flooring",
+			"itemId": 6459,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Wall",
+			"name": "Storm Blue Interior Wall",
+			"itemId": 33248,
+			"color": ""
+		},
+		{
+			"level": "Basement",
+			"type": "Light",
+			"name": "Crystal Chandelier",
+			"itemId": 16013,
+			"color": ""
+		}
+	],
+	"exteriorScale": 100,
+	"exteriorFixture": [
+		{
+			"level": "",
+			"type": "Window",
+			"name": "Riviera Arched Window",
+			"itemId": 6401,
+			"color": ""
+		},
+		{
+			"level": "",
+			"type": "Door",
+			"name": "Riviera Wooden Door",
+			"itemId": 6410,
+			"color": "BB9F7000"
+		}
+	],
+	"exteriorFurniture": [],
+	"metaData":
+	{
+		"version": 121
+	},
+	"interiorScale": 100,
+	"interiorFurniture": [
+		{
+			"itemId": 28987,
+			"name": "Open Book",
+			"transform":
+			{
+				"location": [ 0, 0, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21106,
+			"name": "Blank Riviera Partition",
+			"transform":
+			{
+				"location": [ 0, 360, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21106,
+			"name": "Blank Riviera Partition",
+			"transform":
+			{
+				"location": [ -300, -180, 0 ],
+				"rotation": [ 0, -0, 0.8660254037844386, 0.49999999999999989 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21106,
+			"name": "Blank Riviera Partition",
+			"transform":
+			{
+				"location": [ 300, -180, 0 ],
+				"rotation": [ -0, 0, -0.86602540378443849, 0.50000000000000011 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21106,
+			"name": "Blank Riviera Partition",
+			"transform":
+			{
+				"location": [ -0.005093894898891449, -360, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21106,
+			"name": "Blank Riviera Partition",
+			"transform":
+			{
+				"location": [ 300, 180, 0 ],
+				"rotation": [ -0, 0, -0.49999999999999989, 0.8660254037844386 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16781,
+			"name": "Troupe Stage",
+			"transform":
+			{
+				"location": [ -1000, -200, 660 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16781,
+			"name": "Troupe Stage",
+			"transform":
+			{
+				"location": [ 0, 800, 660 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16781,
+			"name": "Troupe Stage",
+			"transform":
+			{
+				"location": [ 0, 0, 660 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16781,
+			"name": "Troupe Stage",
+			"transform":
+			{
+				"location": [ 0.0019335521074026474, -2380, 659.9929782885398 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16781,
+			"name": "Troupe Stage",
+			"transform":
+			{
+				"location": [ 1000, -199.99642944335938, 660 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16781,
+			"name": "Troupe Stage",
+			"transform":
+			{
+				"location": [ 0, -400, 660 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16781,
+			"name": "Troupe Stage",
+			"transform":
+			{
+				"location": [ 0.0019335521074430595, -780, 659.9929782885398 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16781,
+			"name": "Troupe Stage",
+			"transform":
+			{
+				"location": [ 0.0019335521074435036, -1180, 659.9929782885398 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16781,
+			"name": "Troupe Stage",
+			"transform":
+			{
+				"location": [ 0.0019335521074435036, -1580, 659.9929782885398 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16781,
+			"name": "Troupe Stage",
+			"transform":
+			{
+				"location": [ 600, -200, 660 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16781,
+			"name": "Troupe Stage",
+			"transform":
+			{
+				"location": [ -600, -200, 660 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16781,
+			"name": "Troupe Stage",
+			"transform":
+			{
+				"location": [ 0.0012891521910205483, 399.9937744140625, 660 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21839,
+			"name": "Stage Panel",
+			"transform":
+			{
+				"location": [ 1020, -600.0057373046875, 760 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16781,
+			"name": "Troupe Stage",
+			"transform":
+			{
+				"location": [ 0.0019335521074435036, -1980, 659.9929782885398 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21839,
+			"name": "Stage Panel",
+			"transform":
+			{
+				"location": [ 400, -820, 760 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6573,
+			"name": "Riviera Pillar",
+			"transform":
+			{
+				"location": [ 400, -600, 1400 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21839,
+			"name": "Stage Panel",
+			"transform":
+			{
+				"location": [ 620, -600.0057373046875, 760 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21839,
+			"name": "Stage Panel",
+			"transform":
+			{
+				"location": [ 1200, -400, 759.99853719240821 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21839,
+			"name": "Stage Panel",
+			"transform":
+			{
+				"location": [ 1199.9907809722067, 0, 760.00112434398443 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30423,
+			"name": "Slanted Skylight",
+			"transform":
+			{
+				"location": [ 1200, 100, 1420 ],
+				"rotation": [ 0, -0, 0.70710678118654735, 0.70710678118654779 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6573,
+			"name": "Riviera Pillar",
+			"transform":
+			{
+				"location": [ 400, -600, 760 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30423,
+			"name": "Slanted Skylight",
+			"transform":
+			{
+				"location": [ 540, -600, 1420 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30423,
+			"name": "Slanted Skylight",
+			"transform":
+			{
+				"location": [ 740, -600, 1420 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30423,
+			"name": "Slanted Skylight",
+			"transform":
+			{
+				"location": [ 940, -600, 1420 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30423,
+			"name": "Slanted Skylight",
+			"transform":
+			{
+				"location": [ 400, -740, 1419.9955083168306 ],
+				"rotation": [ 0, -0, 0.70710678118654735, 0.70710678118654779 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21106,
+			"name": "Blank Riviera Partition",
+			"transform":
+			{
+				"location": [ -300, 180, 0 ],
+				"rotation": [ 0, -0, 0.5, 0.86602540378443849 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30423,
+			"name": "Slanted Skylight",
+			"transform":
+			{
+				"location": [ 400.00053124361756, -940, 1419.9873922051061 ],
+				"rotation": [ 0, -0, 0.70710678118654735, 0.70710678118654779 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30423,
+			"name": "Slanted Skylight",
+			"transform":
+			{
+				"location": [ 1120, -600, 1420 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30423,
+			"name": "Slanted Skylight",
+			"transform":
+			{
+				"location": [ 1200, -500, 1420.009128926758 ],
+				"rotation": [ 0, -0, 0.70710678118654735, 0.70710678118654779 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30423,
+			"name": "Slanted Skylight",
+			"transform":
+			{
+				"location": [ 1200.0046887598403, -120, 1419.9978839614075 ],
+				"rotation": [ 0, -0, 0.70710678118654735, 0.70710678118654779 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 30423,
+			"name": "Slanted Skylight",
+			"transform":
+			{
+				"location": [ 1200, -100, 1420 ],
+				"rotation": [ 0, -0, 0.70710678118654735, 0.70710678118654779 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		}
+	],
+	"properties":
+	{
+	}
+}
