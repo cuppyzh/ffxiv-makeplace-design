@@ -1,0 +1,1369 @@
+{
+	"lightLevel": 0.61919140815734863,
+	"houseSize": "Apartment",
+	"interiorFixture": [
+		{
+			"level": "",
+			"type": "District",
+			"name": "Empyreum",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Light",
+			"name": "Leafy Ceiling Lamp",
+			"itemId": 35811,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Floor",
+			"name": "Oasis Flooring",
+			"itemId": 6460,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Side Door",
+			"name": "Chamber Door",
+			"itemId": 0,
+			"color": ""
+		},
+		{
+			"level": "Ground Floor",
+			"type": "Wall",
+			"name": "Arbor Interior Wall",
+			"itemId": 7138,
+			"color": ""
+		}
+	],
+	"exteriorScale": 100,
+	"exteriorFixture": [
+		{
+			"level": "",
+			"type": "Window",
+			"name": "Riviera Arched Window",
+			"itemId": 6401,
+			"color": ""
+		},
+		{
+			"level": "",
+			"type": "Door",
+			"name": "Riviera Wooden Door",
+			"itemId": 6410,
+			"color": "BB9F7000"
+		}
+	],
+	"exteriorFurniture": [],
+	"metaData":
+	{
+		"version": 121
+	},
+	"interiorScale": 100,
+	"interiorFurniture": [
+		{
+			"itemId": 9719,
+			"name": "Oriental Bathtub",
+			"transform":
+			{
+				"location": [ 340, 560, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21811,
+			"name": "Futon Mattress",
+			"transform":
+			{
+				"location": [ 0, -380, 340 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 24512,
+			"name": "Wooden Steps",
+			"transform":
+			{
+				"location": [ 240, 240, 40 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 40649,
+			"name": "Far Eastern Indoor Bamboo Fountain",
+			"transform":
+			{
+				"location": [ 160, 279.99742852713854, -0.0090512646069982224 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 23892,
+			"name": "Verdant Partition",
+			"transform":
+			{
+				"location": [ 320, 800, -0.0010539562998061035 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 23892,
+			"name": "Verdant Partition",
+			"transform":
+			{
+				"location": [ 600, 560, -0.0043485519825449247 ],
+				"rotation": [ 0, -0, 0.70710678118654735, 0.70710678118654779 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 8813,
+			"name": "Glade Doormat",
+			"transform":
+			{
+				"location": [ 380, 120, 0.0068169939351635008 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6573,
+			"name": "Riviera Pillar",
+			"transform":
+			{
+				"location": [ 560, 280, 0.0022145660050733344 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28134,
+			"name": "Flooring Mat",
+			"transform":
+			{
+				"location": [ 359.99990694648852, -619.99107994677638, 0.00071887046876902526 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28134,
+			"name": "Flooring Mat",
+			"transform":
+			{
+				"location": [ 360.00179552182215, -220.00600046428539, 0.003173563492029477 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21851,
+			"name": "Coat Hanger",
+			"transform":
+			{
+				"location": [ 500, -340, 0 ],
+				"rotation": [ 0, -0, 0.42261826174070005, 0.90630778703664949 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21849,
+			"name": "Mummer's Wardrobe",
+			"transform":
+			{
+				"location": [ 560.00005340576172, -180, -0.0032549853703467083 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6549,
+			"name": "Riviera Wardrobe",
+			"transform":
+			{
+				"location": [ 540, -520, -0.00094903999315651758 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 17028,
+			"name": "White Partition",
+			"transform":
+			{
+				"location": [ 120, -540.00422113911588, -0.009851129793453246 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 17028,
+			"name": "White Partition",
+			"transform":
+			{
+				"location": [ 500, -760, -0.0058833314338364532 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 36382,
+			"name": "Deluxe Unmelting Ice Loft",
+			"transform":
+			{
+				"location": [ -640, -980, 140 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 17028,
+			"name": "White Partition",
+			"transform":
+			{
+				"location": [ -300, -760, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 17028,
+			"name": "White Partition",
+			"transform":
+			{
+				"location": [ 100, -760, 0.0016961818383731354 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 17028,
+			"name": "White Partition",
+			"transform":
+			{
+				"location": [ -80, -180, 0 ],
+				"rotation": [ -0, 0, -1, 2.8327694488239898e-16 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 39384,
+			"name": "Far Eastern Stained Crystal Roundel",
+			"transform":
+			{
+				"location": [ 340, -734.98906254768372, 300 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20744,
+			"name": "Decorative Wall Fan",
+			"transform":
+			{
+				"location": [ 144.99776601791382, -420.00000000002768, 320 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 17960,
+			"name": "Doman Partition",
+			"transform":
+			{
+				"location": [ -40, 80, 0 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 27272,
+			"name": "Lily Wall Lamp",
+			"transform":
+			{
+				"location": [ 600.00477313995361, -400.00000024341739, 320 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 24512,
+			"name": "Wooden Steps",
+			"transform":
+			{
+				"location": [ -440, -480, 119.99713567101793 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 24512,
+			"name": "Wooden Steps",
+			"transform":
+			{
+				"location": [ -360, -580, 260 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 17028,
+			"name": "White Partition",
+			"transform":
+			{
+				"location": [ 120, -320, 0.0055355417851690632 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 27296,
+			"name": "Wooden Handrail",
+			"transform":
+			{
+				"location": [ -240, -460, 320 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16781,
+			"name": "Troupe Stage",
+			"transform":
+			{
+				"location": [ -60.003161600754183, -560, 220.00943187299526 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 27296,
+			"name": "Wooden Handrail",
+			"transform":
+			{
+				"location": [ -239.99847341252064, -320.00847288484255, 320 ],
+				"rotation": [ -0, 0, -0.70710678118654757, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28134,
+			"name": "Flooring Mat",
+			"transform":
+			{
+				"location": [ -60, -380, 320 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 37367,
+			"name": "Iron Chair",
+			"transform":
+			{
+				"location": [ 340, -540, 0 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 40642,
+			"name": "Scattered Tomes",
+			"transform":
+			{
+				"location": [ -160, -380, 320 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 40643,
+			"name": "Vintage Side Table",
+			"transform":
+			{
+				"location": [ -180, -280, 340 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 38591,
+			"name": "Side-tied Curtain",
+			"transform":
+			{
+				"location": [ 260, -140, 280 ],
+				"rotation": [ -3.7241698900861116e-06, -3.7241709376453516e-06, 0.99999999998613043, 1.3869316185904905e-11 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 17960,
+			"name": "Doman Partition",
+			"transform":
+			{
+				"location": [ 79.998528084376446, 520, -0.0055510898449006776 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 35556,
+			"name": "Shoe Rack",
+			"transform":
+			{
+				"location": [ 100, -60, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 22551,
+			"name": "Cozy Leather Shoes",
+			"transform":
+			{
+				"location": [ 180, 0, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28148,
+			"name": "Vanity Mirror",
+			"transform":
+			{
+				"location": [ 180, -760, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 40627,
+			"name": "Cieldalaes Planter",
+			"transform":
+			{
+				"location": [ 20, -60, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28638,
+			"name": "Lakeland Table",
+			"transform":
+			{
+				"location": [ 340, -660, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28148,
+			"name": "Vanity Mirror",
+			"transform":
+			{
+				"location": [ 240, -660, 100 ],
+				"rotation": [ -0, 0, -0.25881904510252079, 0.96592582628906842 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 15148,
+			"name": "Ashtray",
+			"transform":
+			{
+				"location": [ 440, -620, 100 ],
+				"rotation": [ -0, 0, -0.34202014332566877, 0.93969262078590832 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 33274,
+			"name": "Akadaemia Prospectuses",
+			"transform":
+			{
+				"location": [ 220, -660.0067205926847, 5 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 32205,
+			"name": "Tankard",
+			"transform":
+			{
+				"location": [ 440, -700, 80 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7974,
+			"name": "Potted Umbrella Fig",
+			"transform":
+			{
+				"location": [ 480, 300, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28131,
+			"name": "Indoor Oriental Garden",
+			"transform":
+			{
+				"location": [ -40, -465, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20752,
+			"name": "Fool's Portal",
+			"transform":
+			{
+				"location": [ 95.005589723587249, -659.999998486094, 545 ],
+				"rotation": [ 0, -0, 0.7071066783194383, 0.70710688405364186 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 35561,
+			"name": "Indoor Oriental Waterfall",
+			"transform":
+			{
+				"location": [ 500, 660, 0 ],
+				"rotation": [ 0, -0, 0.86602540378443871, 0.49999999999999972 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 22572,
+			"name": "Fool's Threshold",
+			"transform":
+			{
+				"location": [ -315, -735.00636458396912, -50.000000000000014 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20752,
+			"name": "Fool's Portal",
+			"transform":
+			{
+				"location": [ 94.992195970773977, -310.00999696211045, 435 ],
+				"rotation": [ 0, -0, 0.70710667831944818, 0.70710688405363198 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 22572,
+			"name": "Fool's Threshold",
+			"transform":
+			{
+				"location": [ -40.001736700222068, -735.00636432355304, 225 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 22572,
+			"name": "Fool's Threshold",
+			"transform":
+			{
+				"location": [ -40, -735.0063169002533, 500 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 22572,
+			"name": "Fool's Threshold",
+			"transform":
+			{
+				"location": [ -315, -734.99996305474144, 225 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 22572,
+			"name": "Fool's Threshold",
+			"transform":
+			{
+				"location": [ -315, -734.9983298874746, 500.00258198335445 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 22572,
+			"name": "Fool's Threshold",
+			"transform":
+			{
+				"location": [ -40, -735.00636458396912, -50 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 23864,
+			"name": "Doman Dogwood",
+			"transform":
+			{
+				"location": [ 430, 725, -165 ],
+				"rotation": [ 0, -0, 0.17364817766693047, 0.98480775301220802 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 9730,
+			"name": "Oriental Altar",
+			"transform":
+			{
+				"location": [ 94.992149353027344, -465, 95 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21813,
+			"name": "Odder Otter Lantern",
+			"transform":
+			{
+				"location": [ -5, -395, 0 ],
+				"rotation": [ 0, -0, 0.90630778703664983, 0.42261826174069944 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 17973,
+			"name": "Zabuton Cushion",
+			"transform":
+			{
+				"location": [ -245, -450, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 27272,
+			"name": "Lily Wall Lamp",
+			"transform":
+			{
+				"location": [ 94.9921812776915, -275.00137865158865, 150 ],
+				"rotation": [ 0, -0, 0.70710675084119212, 0.70710681153190169 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 27272,
+			"name": "Lily Wall Lamp",
+			"transform":
+			{
+				"location": [ 95.005531417828124, -660.00119125833862, 170 ],
+				"rotation": [ 0, -0, 0.70710674746865032, 0.70710681490444327 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7977,
+			"name": "Tatami Mat",
+			"transform":
+			{
+				"location": [ -195, -465, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7979,
+			"name": "Planter Partition",
+			"transform":
+			{
+				"location": [ -60, -255, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 7979,
+			"name": "Planter Partition",
+			"transform":
+			{
+				"location": [ -60, -670, 0.0044638702907414231 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 35566,
+			"name": "Candlelit Sundries",
+			"transform":
+			{
+				"location": [ -180, -600, 0 ],
+				"rotation": [ 0, -0, 0.17364817766693047, 0.98480775301220802 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 40634,
+			"name": "Floating Kitchen Cabinet",
+			"transform":
+			{
+				"location": [ -600, 560, 255 ],
+				"rotation": [ -2.7335096941677814e-09, -2.7335051441858965e-09, -0.70710736968352461, 0.70710619268908059 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21835,
+			"name": "Kitchen Hanger",
+			"transform":
+			{
+				"location": [ -345, 800.00003337860107, 225 ],
+				"rotation": [ -1.3397688292115715e-07, -1.7619519388132243e-20, -0.99999999999999101, 1.3151163845557473e-13 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 24509,
+			"name": "Steppe Kitchen",
+			"transform":
+			{
+				"location": [ -215, 604.99469987274654, 0 ],
+				"rotation": [ 0, -0, 0.70710678118654768, 0.70710678118654757 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 15970,
+			"name": "Mounted Box Shelf",
+			"transform":
+			{
+				"location": [ -600, 560, 375 ],
+				"rotation": [ -0, 0, -0.7071068890825094, 0.70710667329056931 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 37367,
+			"name": "Iron Chair",
+			"transform":
+			{
+				"location": [ -445, 315, 0 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 6608,
+			"name": "Oasis Table",
+			"transform":
+			{
+				"location": [ -450, 200, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 37365,
+			"name": "Factory Pillar",
+			"transform":
+			{
+				"location": [ -200, -140, 0 ],
+				"rotation": [ 0, -0, 0.70710678118654746, 0.70710678118654768 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 37367,
+			"name": "Iron Chair",
+			"transform":
+			{
+				"location": [ -445, 85, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 22575,
+			"name": "Curry Plate",
+			"transform":
+			{
+				"location": [ -425, 160, 75 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 22575,
+			"name": "Curry Plate",
+			"transform":
+			{
+				"location": [ -470, 205, 75 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 23889,
+			"name": "Wooden Plates",
+			"transform":
+			{
+				"location": [ -289.99265801256558, 490.00568209730739, 85 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28975,
+			"name": "Oldrose Wall Planter",
+			"transform":
+			{
+				"location": [ -280, 425, 15 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28151,
+			"name": "Set of Liquor Bottles",
+			"transform":
+			{
+				"location": [ -10, 5, -45 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20741,
+			"name": "Hingan Andon Lamp",
+			"transform":
+			{
+				"location": [ -555, 560.00601405924897, 330 ],
+				"rotation": [ 0, -0, 0.70710678118654735, 0.70710678118654779 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20743,
+			"name": "Hingan Wall Scroll",
+			"transform":
+			{
+				"location": [ -105, -155.00004410743713, 305 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 37359,
+			"name": "Ivy Curtain",
+			"transform":
+			{
+				"location": [ -600, 190, 385 ],
+				"rotation": [ -0, 0, -0.70710687590997334, 0.70710668646310926 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 38676,
+			"name": "Beyond Gloam's Veil",
+			"transform":
+			{
+				"location": [ -84.999999999761243, -204.99018907546997, 495 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20741,
+			"name": "Hingan Andon Lamp",
+			"transform":
+			{
+				"location": [ -555, 480, 330 ],
+				"rotation": [ 0, -0, 0.70710678118654735, 0.70710678118654779 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 20741,
+			"name": "Hingan Andon Lamp",
+			"transform":
+			{
+				"location": [ -555, 635.00462027432116, 330 ],
+				"rotation": [ 0, -0, 0.70710678118654735, 0.70710678118654779 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 24508,
+			"name": "Botanist's Dried Herbs",
+			"transform":
+			{
+				"location": [ -330.0000004867274, 800.00004053115845, 330 ],
+				"rotation": [ -1.3487888850249511e-07, -2.6423391178006597e-20, -0.9999999999999909, 1.959045738838332e-13 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 21838,
+			"name": "Sake Set",
+			"transform":
+			{
+				"location": [ -190, -325, 5 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 8787,
+			"name": "Glade Stool",
+			"transform":
+			{
+				"location": [ -310, 650, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28969,
+			"name": "Cardpaper Box",
+			"transform":
+			{
+				"location": [ -530, 605, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28969,
+			"name": "Cardpaper Box",
+			"transform":
+			{
+				"location": [ -530, 650, 0 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28969,
+			"name": "Cardpaper Box",
+			"transform":
+			{
+				"location": [ -529.99982250839332, 625, 30 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 33275,
+			"name": "Icebox",
+			"transform":
+			{
+				"location": [ -440, 735, 0 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 28965,
+			"name": "Cosmetics Box",
+			"transform":
+			{
+				"location": [ 345, -605, 100 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 32232,
+			"name": "Elemental Wheel",
+			"transform":
+			{
+				"location": [ -599.99993562698353, 189.99999913779681, 250 ],
+				"rotation": [ -1.747449711565702e-08, -1.7474499916380407e-08, -0.70710672452081313, 0.70710683785227713 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 33278,
+			"name": "Hand-poured Coffee",
+			"transform":
+			{
+				"location": [ -470, 160, 65 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 33278,
+			"name": "Hand-poured Coffee",
+			"transform":
+			{
+				"location": [ -475, 240, 65 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 16001,
+			"name": "Jumbo Paissa Doll",
+			"transform":
+			{
+				"location": [ -440, 725, 105 ],
+				"rotation": [ 0, -0, 0.99999999999999989, 6.123233995736766e-17 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 9731,
+			"name": "Oriental Wall Scroll",
+			"transform":
+			{
+				"location": [ 20, -155.00006556510925, 360 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 35559,
+			"name": "Matching Cushions",
+			"transform":
+			{
+				"location": [ 300, -715, 5 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 24527,
+			"name": "Plush Pile",
+			"transform":
+			{
+				"location": [ 55, -690, 315 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		},
+		{
+			"itemId": 37363,
+			"name": "Trick Bookshelf Partition",
+			"transform":
+			{
+				"location": [ -400, -155, -0.00035718060655280746 ],
+				"rotation": [ 0, 0, 0, 1 ],
+				"scale": [ 1, 1, 1 ]
+			},
+			"properties":
+			{
+			}
+		}
+	],
+	"properties":
+	{
+	}
+}
